@@ -3,6 +3,11 @@
   (Nota mía, he desabilitado markdownlint Toggle linting (escribiendo en la barra de arriba > para buscarlo)).
   Siempre van dos espacios.
   Hay qye dejar siempre un espacio entre los símbolos y lo que escribes.
+  
+  Enlaces de momento de los otros dos archivos .md
+
+  [Archivo instalación](instalacion.md)
+  [Archivo uso](uso.md)
 
 ### **Títulos**
 
@@ -135,14 +140,6 @@
   La página web que más utilizo es [Aules](https://portal.edu.gva.es/aules/es/inicio/)
 
 
-### **URL o correo electrónico como enlace**
-
-  Se pone entre corchetes angulares <>
-
-  <https://www.google.es>
-
-  <noruega242@gmail.com>
-
 ### **Tablas**
 
   | Encabezado | Encabezado |
@@ -167,17 +164,6 @@
 
   Para resaltar una palabra o varias se pone ==dos guiones== delante y detrás == palabra ==.
 
-## **Subíndice(una letra por debajo)**
-
-  Se utiliza el símbolo de la ñ. ~
-
-  H~2~O
-
-## **Sobrescrito(una letra por encima)**
-
-  Notación científica. ^2^
-
-  X^2^
 
 
 
