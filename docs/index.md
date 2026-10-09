@@ -9,6 +9,10 @@
   [Archivo instalación](instalacion.md)
   [Archivo uso](uso.md)
 
+# PROBANDO MODIFICAR EL FICHERO INDEX.MD MIENTRAS SE EJECUTA MKDOCS SERVE, (APARTADO 6)
+
+  ESTA ES LA PRUEBA DE ACTUALIZACIÓN AUTOMÁTICA (P6)
+
 ### **Títulos**
 
   Las almohadillas (#) se utilizan para los títulos, van desde 1 hasta 6. Cuantas más pongas más pequeño se hace el texto.
@@ -163,7 +167,6 @@
 ### **Destacar(fofi)**
 
   Para resaltar una palabra o varias se pone ==dos guiones== delante y detrás == palabra ==.
-
 
 
 
